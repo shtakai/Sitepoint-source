@@ -1,5 +1,7 @@
 # Source code for articles on SitePoint
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/Sitepoint-source.svg)](https://www.guardrails.io)
+
 This repo contains source code for my [articles on SitePoint](http://www.sitepoint.com/author/ibodrov/) (starting from March 2015).
 
 Source code for previous articles can be found in the corresponding [repos](https://github.com/bodrovis?tab=repositories).
